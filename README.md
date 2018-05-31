@@ -1,6 +1,3 @@
-# Examen
-Simulacro de examen final
-
 # Instrucciones
 
 1. Desde su cuenta de github pulse el boton de 'fork' en https://github.com/ComputoCienciasUniandes/FinalMetodosComputacionales
